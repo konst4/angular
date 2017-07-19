@@ -1,0 +1,20 @@
+{
+  "name": "logintest",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konst4/angular.git"
+  },
+  "author": "konstantin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konst4/angular/issues"
+  },
+  "homepage": "https://github.com/konst4/angular#readme"
+}
